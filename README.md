@@ -22,6 +22,6 @@ DEPLOYING TO HEROKU
 <a href="https://t.me/deviluserbot"><img src="https://img.shields.io/badge/Join-Support%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![GROUPSCOUT_BOT logo](https://telegra.ph/file/b907cf4d03ef1298fe623.jpg)](https://telegra.ph/file/6887176888e10c47d6c7c.jpg)
+[![GROUPSCOUT_BOT logo](https://telegra.ph/file/6887176888e10c47d6c7c.jpg)]
 
 
