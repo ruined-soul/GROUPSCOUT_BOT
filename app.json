@@ -1,16 +1,16 @@
 {
-  "name": "Meow - Assistant",
-  "description": "Meow Assistant bot", 
+  "name": "Groupscput_bot",
+  "description": "Telegram group management bot", 
   "logo": "",
  "keywords": [
   "telegram",
-  "Meloow",
+  "Scout",
   "Assistant",
   "modular",
   "productivity"
  ],
- "repository": "https://github.com/kaal0408/Meowassistant",
- "success_url": "https://github.com/loverboyXD",
+ "repository": "https://github.com/ruined-soul/Groupscout_bot",
+ "success_url": "https://github.com/ruined-soul",
  "env": {
   "API_KEY": {
     "description": "Your Api Key..",
