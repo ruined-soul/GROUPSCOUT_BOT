@@ -16,7 +16,7 @@
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
          "required": false,
-         "value": ""
+         "value": "CAACAgQAAxkBAAEBNb1i6iXjw2KPJCcPNZ5gHFPjQd2stQACFA0AAjYuaVFkXuoEHwxw8ikE"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -50,7 +50,7 @@
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "1001748715628"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -62,7 +62,7 @@
       },
       "AI_API_KEY": {
          "description": "for activate chatbot",
-         "value": "x_y_z"
+         "value": ""
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -100,7 +100,7 @@
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
          "required": false,
-         "value": ""
+         "value": "ANYTHING"
       },
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
