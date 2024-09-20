@@ -1,0 +1,18 @@
+# app.yaml
+
+runtime: python-3.8  # or the Python version you're using
+
+# Build process configuration
+build:
+  packages:
+    - python
+  language: python
+
+# Environment variables (you can set them in Heroku too)
+env:
+  TELEGRAM_TOKEN: "<your-telegram-bot-token>"
+  NLTK_PACKAGES: "punkt,wordnet,averaged_perceptron_tagger,stopwords,vader_lexicon"
+
+# Run the application
+script:
+  - python bot.py  # The entry point for your bot script (make sure your bot script is named correctly)
