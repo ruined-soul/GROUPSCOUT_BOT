@@ -1,7 +1,0 @@
-python_version: "3.8"
-nltk_corpora:
-  - punkt
-  - wordnet
-  - averaged_perceptron_tagger
-  - stopwords
-  - vader_lexicon
